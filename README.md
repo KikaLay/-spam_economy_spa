@@ -4,6 +4,6 @@ Este servicio lo hace a través de correos electrónicos, los cuales se les envi
 
 Materia aplicada
 
-El paquete Nodemailer
-Envío de un correo electrónico a partir de una consulta HTTP
-Envío de correos electrónicos masivos
+- El paquete Nodemailer
+- Envío de un correo electrónico a partir de una consulta HTTP
+- Envío de correos electrónicos masivos
